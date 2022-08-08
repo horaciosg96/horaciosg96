@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Horacio Salinas (@horaciosg96)
+- 👀 I’m interested in starting a career as a dev
+- 🌱 I’m currently learning Java and C++
+- 📫 You can reach me via e-mail - horaciosg96@gmail.com
